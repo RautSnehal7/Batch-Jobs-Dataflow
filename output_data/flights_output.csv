@@ -1,0 +1,5 @@
+('HNL', {'Delayed_time': [15], 'Delayed_num': [1]})
+('OGG', {'Delayed_time': [138], 'Delayed_num': [1]})
+('LAX', {'Delayed_time': [92], 'Delayed_num': [4]})
+('DFW', {'Delayed_time': [95], 'Delayed_num': [1]})
+('JFK', {'Delayed_time': [220], 'Delayed_num': [4]})
